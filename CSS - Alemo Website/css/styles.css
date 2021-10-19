@@ -1,0 +1,37 @@
+.top_container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle_container{
+    background-color: #E4F6;
+    height: 200px;
+    width: 200px;
+
+}
+.bottom_container{
+    background-color: #66BFBF;
+    height: 200px;
+    width: 200px;
+}
+h1 {
+    font-family: Serif;
+}
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.top_cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom_cloud{
+     position: absolute;
+    left: 300px;
+    bottom:300px;
+ }
+p{
+    font-family: Serif;
+}
